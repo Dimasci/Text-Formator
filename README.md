@@ -1,16 +1,20 @@
-1. ---
+# Text Formatting Script
 
-2. # Text Formatting Script
+This Python script allows you to format text in various ways and save the formatted text to a file.
 
-3. ---
+## Features
 
-4. ## How to Use
+- Format text using ASCII art
+- Convert text to uppercase
+- Convert text to lowercase
+- Save formatted text to a file
 
-5.  **Install Python**: If you don't have Python installed, download and install it from [python.org](https://www.python.org/downloads/).
+## Installation
 
-6.  **Download the Script**: Download the `text_formatting_script.py` file from this repository.
+1.Install the required Python packages:
 
-7.  **Install Dependencies**: Open your terminal or command prompt and run the following command to install the required dependencies:
-   
-   ```bash
    pip install -r requirements.txt
+
+2.Run the script:
+
+   python text_formatting_script.py

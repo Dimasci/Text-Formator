@@ -17,4 +17,4 @@ This Python script allows you to format text in various ways and save the format
 
 2.Run the script:
 
-   python text_formatting_script.py
+   python main.py
